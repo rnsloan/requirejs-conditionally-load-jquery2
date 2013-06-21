@@ -1,0 +1,2 @@
+Requires Node.js installed. Navigate to this directory and run:
+node r.js -o build.js
